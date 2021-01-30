@@ -4,4 +4,4 @@ Budget Review tracks withdrawals and deposits that user inputs so that the user 
 
 ![image](https://user-images.githubusercontent.com/67798512/106366215-3ae93580-62ef-11eb-865e-58ef5098d82a.png)
 
-For a link to the web application for Budget Review, [Click here!](https://budget-review.heroku.com/)
+For a link to the web application for Budget Review, [Click here!](https://budget-review.herokuapp.com/)
